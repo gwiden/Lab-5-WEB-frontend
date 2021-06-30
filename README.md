@@ -31,3 +31,7 @@
 
 #### В браузере:
 
+[<img align="centre" width="700x" src="github.com/gwiden/Lab-5-WEB-frontend/blob/main/screenshots/YT.jpg" />][youtube]
+
+[youtube]: https://www.youtube.com/watch?v=g9NBBN9tTgA
+
